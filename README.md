@@ -111,39 +111,6 @@ _my_barber_shop/
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-### 🔐 Login / Cadastro / Home
-<img src="https://github.com/user-attachments/assets/d0c0cd36-0e1f-4d0f-9bd7-034bf15373d7" width="250">
-<img src="https://github.com/user-attachments/assets/a6dfb31e-aa8d-4531-b3b6-8a404c01c929" width="250">
-<img src="https://github.com/user-attachments/assets/f00560cd-ce78-45e8-bbdd-7157deabd805" width="250">
-
-<img src="https://github.com/user-attachments/assets/12c3ad2d-6ec0-46c4-9e5f-b80fd585654c" width="250">
-<img src="https://github.com/user-attachments/assets/593d9e82-90ff-43bb-8e7d-fac2fd890244" width="250">
-<img src="https://github.com/user-attachments/assets/c9a1bcfe-2aae-4948-9060-fc639a0e8ddd" width="250">
-
----
-
-### 💈 Cadastro da Barbearia / Endereço
-<img src="https://github.com/user-attachments/assets/187ade24-b248-47f4-b052-a81c0bfaf8b3" width="250">
-<img src="https://github.com/user-attachments/assets/e81014c3-dcea-4c7e-bbda-da9f0866f8fa" width="250">
-<img src="https://github.com/user-attachments/assets/b226145d-d6de-4357-914f-dedc2ab43093" width="250">
-
----
-
-### 📅 Agendamentos
-<img src="https://github.com/user-attachments/assets/5fa2d5e3-0000-4f2c-9f87-2a831f0d9b6a" width="250">
-<img src="https://github.com/user-attachments/assets/30e18a09-106a-4d03-98bc-8e26073f1a21" width="250">
-<img src="https://github.com/user-attachments/assets/f4049fab-4acc-4922-b84d-af3eb02c887c" width="250">
-
----
-
-### 🗺️ Localização / Mapa
-<img src="https://github.com/user-attachments/assets/b0252eb0-140e-45d8-a26f-df7aab720624" width="250">
-
-</div>
 
 ---
 
