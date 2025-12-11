@@ -1,4 +1,4 @@
-<div align="center">
+<img width="554" height="602" alt="INICIAL" src="https://github.com/user-attachments/assets/5ebeb548-b032-48d1-bfee-03e45a3f445d" /><div align="center">
 
 # 💈📱 My Barber Shop  
 ### Aplicativo Mobile para Agendamento e Gestão de Barbearias
@@ -111,8 +111,23 @@ _my_barber_shop/
 
 ---
 
+# 📱 Screenshots
 
----
+<div align="center">
+<img width="680" height="723" alt="firebase12" src="https://github.com/user-attachments/assets/4729b0ab-c1e5-487c-bf80-14a254786a12" />
+<img width="596" height="241" alt="WQSQW" src="https://github.com/user-attachments/assets/e15a96b7-295d-4714-8c1d-f81c8b459021" />
+<img width="522" height="601" alt="AGENDAMENTOOS BARBEARIA ACEITA" src="https://github.com/user-attachments/assets/102cb257-99d0-4443-8b41-608f2b9b0fa0" />
+<img width="532" height="602" alt="HORARIOS" src="https://github.com/user-attachments/assets/ad31b40b-53bf-48a5-8aef-f3efd8aa89eb" />
+<img width="526" height="609" alt="CRIARB ARBEARIA" src="https://github.com/user-attachments/assets/45844e4a-ce6e-4648-875f-c77cfbb92f60" />
+<img width="530" height="606" alt="BARBEARIA" src="https://github.com/user-attachments/assets/7dd87f7e-1995-4049-a529-a7824d51864f" />
+<img width="277" height="598" alt="HISTORICO OCONVERSAS" src="https://github.com/user-attachments/assets/659cf7dc-0fd5-4435-8a99-3cbf167ed54b" />
+<img width="558" height="599" alt="AGENDAMENTOS E CHAT" src="https://github.com/user-attachments/assets/b6a9c4fa-0d5b-4657-8e0c-143ca1cb167d" />
+<img width="549" height="596" alt="AGENDAMENTOS" src="https://github.com/user-attachments/assets/d1103ba7-81a0-4a2c-983f-62c363bc93a8" />
+<img width="554" height="602" alt="INICIAL" src="https://github.com/user-attachments/assets/e162ccfb-0698-4992-aa8d-60d807b9cfe8" />
+<img width="558" height="601" alt="LOGIN E REGISTRO 2" src="https://github.com/user-attachments/assets/569f8c93-dab4-46ac-b57b-8c19fda1bebe" />
+<img width="555" height="596" alt="LOGIN E REGISTRO" src="https://github.com/user-attachments/assets/1d0fbe1d-4d61-480b-ab1d-2a1682cbc1c9" />
+</div>
+
 
 # 🚀 Como Rodar o Projeto
 
